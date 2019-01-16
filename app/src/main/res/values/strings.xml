@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Phish App</string>
+    <string name="edit_login_email">Email</string>
+    <string name="edit_login_password">Password</string>
+    <string name="button_login_register">Register</string>
+    <string name="button_login_signin">Sign In</string>
+    <string name="edit_register_email">Email</string>
+    <string name="edit_register_password">Password</string>
+    <string name="edit_register_retypepassword">Retype Password</string>
+    <string name="button_register_register">Register</string>
+    <string name="credential_key">credentials</string>
+</resources>
