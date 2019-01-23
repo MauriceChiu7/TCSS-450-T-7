@@ -1,7 +1,7 @@
 package tcss450.uw.edu.tcss_450_t7;
 /**
  * Luke added comment for git testing.
- * Maurice was here.
+ * Maurice was here. Please merge this pull request.
  */
 
 import android.support.v7.app.AppCompatActivity;
